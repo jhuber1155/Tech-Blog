@@ -23,7 +23,7 @@ router.post('/', withAuth, async (req, res) => {
     }
 });
 
-router.put('/comment/:id', async (req, res) => {
+router.put('/:id', async (req, res) => {
     try{
         const commentData = await Comments.update(req.body, {
             where: {
@@ -41,7 +41,7 @@ router.put('/comment/:id', async (req, res) => {
     }
 });
 
-router.delete('/comment/:id', withAuth, async (req, res) => {
+router.delete('/:id', withAuth, async (req, res) => {
     try{
         const commentData = await Comments.destroy({
             where: {
