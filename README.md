@@ -10,6 +10,8 @@ Go to [Github](www.github.com) ![Github](./public/images/GithubPages.png) and th
 
 ![Github Code](./public/images/GithubCode.png)
 
+![TechBlog](./public/images/Screenshot.png)
+
 Open using your preferred code editing environment. Then open the integrated terminal and run the code!
 
 ## Usage
@@ -19,3 +21,5 @@ Unfortunately I was unable to complete this code. There is still some work to do
 ## Credits
 I would like to thank the staff and my fellow students at the UCLA Bootcamp in helping me gain an understanding when it comes to deploying the front and back-end services together to make a coherent and cogent website. I have learned a lot and expect to learn a lot more in the future! I would also like to credit the X-pert Learner software and AskBCS tutors who helped me troubleshoot along the way!
 
+## Link
+Link to deployed page: https://jhuber1155.github.io/Tech-Blog/
